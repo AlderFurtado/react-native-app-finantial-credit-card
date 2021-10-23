@@ -1,0 +1,12 @@
+{
+  "name": "react-native-storybook",
+  "displayName": "react-native-storybook",
+  "expo": {
+    "name": "react-native-storybook",
+    "slug": "react-native-storybook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
