@@ -1,2 +1,2 @@
 # react-native-app-finantial-credit-card
-App developed for studieing theses concepts:
+App developed for studying these concepts: Storybook, Animations and Test
